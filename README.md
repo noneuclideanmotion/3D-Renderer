@@ -10,4 +10,4 @@ To do:
   - Add support for other filetypes
   - Add a texturing system
   - Add proper triangle clipping
-  
+  - Create documentation on how to use (for now, look at example_program.cpp)
