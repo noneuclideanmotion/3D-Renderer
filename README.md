@@ -2,6 +2,8 @@
 
 Basic 3D rendering engine in SFML and C++ (Not complete)
 
+Compiling example_program should give you a teapot, it from the top east side, slowly rotating and changing colour.
+
 To do:
   - Multithreading
   - More dynamic lighting support
